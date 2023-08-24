@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp4076117.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.outer { 
+  display: flex;
+}
+
+.post-box {
+  border: 2px solid gray;
+  padding: 50px;
+  box-shadow: 4px 4px 62px white;
+  width: 300px;
+  height: 500px;
+  color:white;
+}
